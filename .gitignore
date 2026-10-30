@@ -1,0 +1,19 @@
+# Credentials and secrets
+.env
+.env.*
+credentials.json
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated files
+.DS_Store
+Thumbs.db
